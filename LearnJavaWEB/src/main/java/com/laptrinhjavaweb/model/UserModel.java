@@ -4,6 +4,7 @@ public class UserModel {
 	
 	private String userName;
 	private String fullName;
+	
 	public UserModel(String userName, String fullName) {
 		super();
 		this.userName = userName;
